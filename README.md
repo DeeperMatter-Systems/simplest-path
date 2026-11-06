@@ -14,3 +14,9 @@ Sketch to clean vector geometry: infer shapes and constraints, verify with numer
 - Traced-SVG cleanup interface (take a rough vector trace and constrain / simplify it)
 
 Both paths should converge on the same constrained geometry model.
+
+## Vocabulary
+
+Proposed shapes, constraints, numeric checks, and an illustrative JSON document: [docs/vocabulary.md](docs/vocabulary.md).
+
+That note is documentation for review. It does not add a schema, checker, or solver.
